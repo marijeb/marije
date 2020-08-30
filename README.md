@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="https://raw.githubusercontent.com/marijeb/marijeb/blob/master/Banner.png"> 
+   <img src="https://github.com/marijeb/marijeb/blob/master/Banner.png"> <br>
    <br>
    <samp>
     My name is Marije and I'm Test Analyst <br>
