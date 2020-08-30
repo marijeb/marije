@@ -1,6 +1,4 @@
 <p align="center">
-   <img src="https://github.com/marijeb/marijeb/blob/master/Banner.png"> <br>
-   <br>
    <samp>
     My name is Marije and I'm Test Analyst <br>
     I’m currently exploring automation in testing <br>
